@@ -2,174 +2,192 @@
     "mexican":
     [
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "El Sabor Mexicano",
+            "rating": "3/5",
+            "location": "Escalon, CA",
+            "description": "El Sabor Mexicano brings the vibrant flavors of Mexico to life with authentic dishes crafted from traditional recipes. From sizzling fajitas and hearty enchiladas to fresh guacamole and zesty salsas, every bite is a celebration of Mexican culinary heritage. The warm, colorful décor and lively atmosphere make it the perfect spot for family gatherings, date nights, or festive celebrations. Whether you're craving a classic margarita or the bold spices of mole sauce, El Sabor Mexicano promises a dining experience full of flavor and heart."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Cantina del Sol",
+            "rating": "3/5",
+            "location": "Stockton, CA",
+            "description": "Cantina del Sol is a radiant escape where the flavors of Latin America shine. Known for its vibrant cocktails, like tangy margaritas and refreshing mojitos, this spot pairs lively beverages with a menu of bold, sun-soaked dishes. From smoky grilled tacos to tropical ceviche and hearty arroz con pollo, each plate is a celebration of culinary craftsmanship. The rustic, sun-inspired decor, complete with warm lighting and lively music, creates an inviting atmosphere perfect for unwinding with friends or enjoying a spirited fiesta. At Cantina del Sol, every meal feels like a celebration under the sun."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Tierra y Fuego",
+            "rating": "3/5",
+            "location": "Stockton, CA",
+            "description": "Tierra y Fuego is a culinary journey that celebrates the raw power of nature’s elements, blending earthy flavors with fiery cooking techniques. Specializing in wood-fired meats, charred vegetables, and smoky, handcrafted sauces, this restaurant captures the essence of rustic cooking with a modern twist. The ambiance is warm and inviting, with an open flame centerpiece that adds both charm and drama to the dining experience. Whether you're savoring their signature fire-grilled steaks or indulging in artisan flatbreads, Tierra y Fuego promises a bold, unforgettable meal that connects you to the land and its vibrant, fiery spirit."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Casa de las Tacos",
+            "rating": "2/5",
+            "location": "Lathrop, CA",
+            "description": "Casa de las Tacos is a vibrant haven for taco lovers, offering a mouthwatering selection of classic and creative tacos inspired by regional Mexican flavors. From street-style carne asada and al pastor to adventurous options like crispy shrimp and roasted cactus, every taco is a carefully crafted masterpiece. Freshly made tortillas, bold salsas, and locally sourced ingredients ensure an authentic taste in every bite. The lively atmosphere, complete with colorful decor and upbeat music, makes Casa de las Tacos a perfect spot for a casual meal with friends or a festive family feast. It's not just a restaurant—it's a celebration of tacos!"
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "La Frontera Grill",
+            "rating": "1/5",
+            "location": "Stockton, CA",
+            "description": "La Frontera Grill is where the rich flavors of the border come alive, blending traditional Mexican cuisine with bold Tex-Mex flair. Known for its sizzling fajitas, hearty burritos, and smoky grilled meats, every dish is a tribute to the vibrant culinary heritage of the frontera. The menu features a mix of spicy, savory, and fresh flavors, complemented by refreshing aguas frescas and signature margaritas. With its rustic decor, warm lighting, and friendly service, La Frontera Grill offers a welcoming atmosphere for both casual dining and special occasions. At La Frontera Grill, every meal is a flavorful adventure that crosses culinary borders."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Agave Azul Cantina",
+            "rating": "3/5",
+            "location": "Ripon, CA",
+            "description": "Agave Azul Cantina is a sophisticated blend of tradition and innovation, offering a contemporary take on classic Mexican cuisine. The star of the show is its extensive tequila and mezcal collection, paired perfectly with gourmet dishes like ancho-rubbed steak, citrus-marinated ceviche, and decadent mole enchiladas. With its sleek, modern decor and a touch of agave-inspired artistry, the cantina creates an upscale yet inviting atmosphere. Whether you're sipping on a handcrafted cocktail or savoring a freshly grilled creation, Agave Azul Cantina promises an elevated dining experience infused with the rich essence of Mexico."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Los Abuelos Cocina",
+            "rating": "2/5",
+            "location": "Tracy, CA",
+            "description": "Los Abuelos Cocina is a heartfelt homage to the timeless recipes of our grandparents, bringing the warmth of traditional Mexican home cooking to your table. From hearty pozole and slow-cooked birria to handmade tamales and flan, each dish is prepared with love and authenticity. The cozy atmosphere, adorned with family photos and rustic touches, makes you feel like you're dining in Abuela’s kitchen. Perfect for family gatherings or a comforting meal, Los Abuelos Cocina serves more than food—it serves memories, tradition, and the unmistakable flavors of home."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Pueblo y Paladar",
+            "rating": "4/5",
+            "location": "Lodi, CA",
+            "description": "Pueblo y Paladar is a culinary tribute to the heart and soul of Mexican villages, showcasing dishes that reflect the deep connection between community and flavor. The menu features regional specialties like Oaxaca’s tlayudas, Yucatán’s cochinita pibil, and Puebla’s iconic mole poblano, each prepared with fresh, locally sourced ingredients. With its earthy decor, featuring handcrafted pottery and vibrant textiles, the restaurant immerses you in the rich cultural tapestry of Mexico. At Pueblo y Paladar, every meal is a journey through the authentic tastes and traditions of the Mexican countryside, honoring both the land and its people."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Mi Tierra Mexicana",
+            "rating": "3/5",
+            "location": "Stockton, CA",
+            "description": "Mi Tierra Mexicana invites you to experience the vibrant essence of Mexico through its authentic and colorful cuisine. The menu is a celebration of traditional dishes, from savory chiles rellenos and tender carnitas to fresh salsas and handmade tortillas. With a warm, family-friendly atmosphere and decor inspired by Mexico’s rich landscapes and culture, Mi Tierra Mexicana feels like a slice of home. Whether you’re enjoying a hearty breakfast, a festive dinner, or a refreshing agua fresca, this restaurant offers a taste of the heartland, made with love and tradition."
+        },
+        {
+            "restaurant": "Taqueria El Corazon",
+            "rating": "4/5",
+            "location": "Lodi, CA",
+            "description": "Taqueria El Corazón lives up to its name by putting heart and soul into every taco it serves. Specializing in bold, authentic street tacos, the menu offers a variety of flavorful fillings, from marinated al pastor and tender barbacoa to zesty grilled fish and crispy chicharrón. Complemented by fresh, handmade tortillas and a lineup of vibrant salsas, each bite is a burst of love for Mexican street food. The casual, lively atmosphere and warm hospitality make it a favorite spot for taco enthusiasts. At Taqueria El Corazón, every taco is crafted with passion straight from the heart."
         }
 
     ],
     "chinese":
     [
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Golden Dragon Palace",
+            "rating": "3/5",
+            "location": "Stockton, CA",
+            "description": "Golden Dragon Palace offers a royal dining experience with its elegant take on traditional Chinese cuisine. From exquisite dim sum and crispy Peking duck to flavorful Mongolian beef and delicate seafood dishes, the menu highlights the finest ingredients and age-old cooking techniques. The restaurant’s grand, opulent interior, with intricate Chinese artwork and gold accents, sets the tone for an unforgettable meal. Whether you’re enjoying a banquet with family or a quiet dinner, Golden Dragon Palace combines a regal atmosphere with the bold, balanced flavors of Chinese culinary artistry, making every visit feel like a special occasion."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Jade Lotus Kitchen",
+            "rating": "2/5",
+            "location": "Lathrop, CA",
+            "description": "Jade Lotus Kitchen brings the delicate flavors and artistry of Chinese cuisine to life with a menu that emphasizes fresh ingredients and balanced seasoning. Specializing in Cantonese and Sichuan dishes, Jade Lotus Kitchen offers everything from savory dumplings and hand-pulled noodles to spicy kung pao chicken and fragrant mapo tofu. The sleek and serene decor, inspired by traditional Chinese aesthetics, provides a calm, welcoming atmosphere perfect for both intimate dinners and large family gatherings. At Jade Lotus Kitchen, every dish is crafted with care and served with a touch of elegance, making it a destination for both the everyday and the extraordinary."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Imperial Wok House",
+            "rating": "3/5",
+            "location": "Escalon, CA",
+            "description": "Imperial Wok House offers a refined take on Chinese cuisine, blending time-honored recipes with a touch of contemporary flair. From savory stir-fries and aromatic soups to decadent sweet and sour dishes, every dish is prepared with precision using the finest ingredients. Specialties like sizzling wok-fried shrimp, tender beef with broccoli, and crispy spring rolls highlight the skill and expertise behind each plate. The elegant ambiance, with its dark wood accents and soft lighting, creates a perfect setting for both casual dining and special occasions. At Imperial Wok House, expect an imperial feast of bold flavors and authentic craftsmanship."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Red Latern Bistro",
+            "rating": "1/5",
+            "location": "Escalon, CA",
+            "description": "Red Lantern Bistro offers a modern twist on classic Asian flavors, blending the rich traditions of Chinese, Vietnamese, and Thai cuisines into a harmonious dining experience. The menu features a variety of dishes, from savory pho and crispy duck to flavorful pad Thai and dim sum. The bistro’s chic, contemporary décor, accented with vibrant red lanterns and soft lighting, creates an inviting atmosphere perfect for a romantic dinner or a night out with friends. With a focus on fresh ingredients and bold, balanced flavors, Red Lantern Bistro offers a delightful escape into the tastes of Asia."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Bamboo Garden Delight",
+            "rating": "5/5",
+            "location": "Ripon, CA",
+            "description": "Bamboo Garden Delight offers an enchanting dining experience that transports you to the lush beauty of Asian gardens, where the flavors are as vibrant as the surroundings. Specializing in fresh, plant-based Asian dishes, the menu highlights vegetable stir-fries, crispy spring rolls, fragrant curries, and delicate rice paper rolls. The peaceful ambiance, with bamboo accents and soft, natural light, creates a serene and relaxing atmosphere. Whether you’re enjoying a light lunch or a leisurely dinner, Bamboo Garden Delight provides a refreshing escape with a menu that celebrates the crisp, clean flavors of the garden and the warmth of Asian cuisine."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Dynasty Dumplings",
+            "rating": "3/5",
+            "location": "Manteca, CA",
+            "description": "Dynasty Dumplings brings the art of dumpling-making to the forefront with an exquisite menu of handcrafted, bite-sized treasures. From traditional steamed dumplings filled with succulent pork and shrimp to creative, pan-fried varieties like vegetable and truffle, each dumpling is made fresh and packed with flavor. The cozy, inviting atmosphere with Asian-inspired decor makes it the perfect spot for casual dining or sharing a meal with friends. Whether you’re enjoying a classic bao or indulging in a spicy dipping sauce, Dynasty Dumplings offers an unforgettable experience that celebrates the rich history and taste of Chinese cuisine."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Szechuan Spice House",
+            "rating": "1/5",
+            "location": "Lathrop, CA",
+            "description": "Szechuan Spice House brings the bold, fiery flavors of Sichuan cuisine to the forefront, specializing in dishes that pack a punch with aromatic spices and vibrant seasonings. From mouth-numbing mapo tofu and sizzling kung pao chicken to the signature dry-fried green beans and spicy hot pots, every dish is a flavorful adventure. The use of Szechuan peppercorns creates a unique, tingling heat that is balanced by rich, savory sauces. The restaurant’s modern yet cozy atmosphere, with touches of traditional Chinese design, invites guests to dive into a world of heat, spice, and unforgettable taste. At Szechuan Spice House, spice isn’t just a flavor—it’s an experience."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Pearl of the Orient",
+            "rating": "3/5",
+            "location": "Tracy, CA",
+            "description": "Pearl of the Orient offers a refined dining experience inspired by the culinary treasures of Southeast Asia. The menu features a diverse selection of delicacies, from tender dim sum and savory wonton soup to fragrant Thai curries and rich Vietnamese pho. Each dish is crafted with fresh ingredients and expertly balanced flavors, showcasing the depth and complexity of Asian cuisine. The elegant decor, with soft lighting and intricate Asian motifs, creates an inviting atmosphere for both intimate dinners and family gatherings. At Pearl of the Orient, every meal is a journey through the rich traditions and exotic tastes of the East."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Dragonfly Dim Sum",
+            "rating": "2/5",
+            "location": "Stockton, CA",
+            "description": "Dragonfly Dim Sum offers an elegant and modern twist on traditional Chinese dim sum, serving a wide array of bite-sized delights that are as beautiful as they are delicious. From delicate steamed dumplings and crispy spring rolls to savory buns and fragrant rice rolls, each dish is freshly prepared and packed with authentic flavors. The chic, contemporary ambiance, with subtle Asian influences and a relaxed vibe, makes it a perfect spot for a casual lunch or a special celebration. Whether you’re a dim sum enthusiast or a first-timer, Dragonfly Dim Sum promises a delightful culinary experience that brings the best of this beloved tradition to life."
+        },
+        {
+            "restaurant": "Mandarin Moon Cafe",
+            "rating": "5/5",
+            "location": "Manteca, CA",
+            "description": "Mandarin Moon Cafe combines the elegance of Chinese cuisine with a cozy, inviting atmosphere, offering a menu that features both classic and contemporary dishes. From silky mapo tofu and crispy duck to light, flavorful soups and wok-fried specialties, each dish is crafted with the finest ingredients and expert technique. The cafe’s warm, intimate ambiance, with soft moonlit lighting and delicate Chinese-inspired decor, creates the perfect setting for a relaxing meal. Whether you're enjoying a comforting bowl of noodles or a rich, savory stir-fry, Mandarin Moon Cafe offers a peaceful escape where the flavors of China shine."
         }
 
     ],
     "italian":
     [
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "La Dolce Vita Bistro",
+            "rating": "2/5",
+            "location": "Lathrop, CA",
+            "description": "La Dolce Vita Bistro is a charming celebration of the good life, offering an authentic taste of Italian cuisine in a cozy, relaxed atmosphere. The menu is a perfect blend of traditional and modern Italian dishes, from creamy risottos and handmade pasta to wood-fired pizzas and indulgent tiramisu. The bistro’s warm, rustic decor, complete with vintage wine bottles and wooden accents, creates a welcoming environment for friends and family to gather and enjoy. Whether you're sipping on a glass of Italian wine or savoring a rich espresso, La Dolce Vita Bistro promises a delightful escape where every bite is a taste of “the sweet life.”"
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Trattoria Bella",
+            "rating": "1/5",
+            "location": "Stockton, CA",
+            "description": "Trattoria Bella offers an intimate and authentic Italian dining experience, bringing the heart of Italy to your table. Specializing in classic dishes like handmade pasta, hearty lasagna, and succulent osso buco, the menu showcases the simple yet rich flavors of Italian home cooking. The warm, inviting ambiance, with its rustic decor and cozy seating, makes it the perfect spot for a casual meal or a special evening out. Paired with a selection of fine wines and decadent desserts like panna cotta and cannoli, Trattoria Bella is a place where every meal feels like a celebration of family, food, and Italian tradition."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Cucina Toscana",
+            "rating": "3/5",
+            "location": "Manteca, CA",
+            "description": "Cucina Toscana offers a taste of rustic Italy with its menu inspired by the simple, fresh flavors of Tuscany. From rich, flavorful pastas and hearty ribollita soup to succulent bistecca alla fiorentina and tender roasted lamb, every dish reflects the region’s deep culinary traditions. The restaurant’s elegant yet warm ambiance, with stone walls, wooden beams, and a touch of countryside charm, makes it an inviting space for both intimate dinners and lively gatherings. With an extensive selection of Italian wines and traditional desserts like tiramisu and ricotta cheesecake, Cucina Toscana transports guests to the heart of Tuscany with every bite."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Gusto di Roma",
+            "rating": "5/5",
+            "location": "Manteca, CA",
+            "description": "Gusto di Roma brings the bold, vibrant flavors of Rome to life with its menu that showcases the best of Italian cuisine. Specializing in Roman classics such as carbonara, cacio e pepe, and saltimbocca, the restaurant captures the essence of the Eternal City with every dish. The rustic yet chic atmosphere, with exposed brick walls and Italian-inspired decor, offers a welcoming environment for a casual dinner or an elegant night out. Whether you're enjoying a rich bowl of pasta or a refreshing glass of Italian wine, Gusto di Roma promises an authentic taste of Rome that transports you straight to the heart of Italy."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Mamma Mia's Kitchen",
+            "rating": "1/5",
+            "location": "Stockton, CA",
+            "description": "Mamma Mia's Kitchen offers a heartwarming, family-style dining experience with authentic Italian dishes that feel like they’ve been passed down through generations. From the perfect marinara sauce and fresh, hand-rolled pasta to melt-in-your-mouth meatballs and homemade pizza, every dish is crafted with love and attention to detail. The cozy, welcoming atmosphere, complete with checkered tablecloths and rustic decor, makes it a perfect spot for sharing a meal with family and friends. Whether you're savoring a comforting bowl of lasagna or enjoying a sweet scoop of gelato, Mamma Mia's Kitchen feels just like eating at Nonna's house—full of love, laughter, and great food."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Il Forno Italiano",
+            "rating": "3/5",
+            "location": "Tracy, CA",
+            "description": "Il Forno Italiano brings the authentic flavors of Italy’s rustic kitchens to your table, specializing in wood-fired pizzas, freshly baked breads, and traditional Italian dishes. From the crispy, charred crust of its signature pizzas to the rich, savory pasta sauces and hearty meats, each dish is crafted with the finest ingredients and cooked to perfection in a traditional brick oven. The warm, inviting atmosphere, with its Italian-inspired decor and the irresistible aroma of baking bread, creates the perfect setting for a casual meal or a special celebration. At Il Forno Italiano, every meal is a delicious journey through Italy’s culinary heartlands."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Pasta e Basta",
+            "rating": "5/5",
+            "location": "Manteca, CA",
+            "description": "Pasta e Basta is a cozy haven for pasta lovers, offering a simple yet flavorful menu focused on the art of Italian pasta-making. With a variety of fresh, handmade pastas—ranging from delicate fettuccine to rich pappardelle—the restaurant celebrates the classic flavors of Italy with every dish. The menu features traditional sauces like creamy Alfredo, tangy marinara, and savory pesto, each made with locally sourced ingredients. The charming, rustic atmosphere, complete with wooden tables and the warm aroma of garlic and herbs, invites guests to relax and enjoy a comforting, satisfying meal. At Pasta e Basta, it’s all about the pasta, and it’s always made to perfection."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Osteria del Sole",
+            "rating": "1/5",
+            "location": "Lathrop, CA",
+            "description": "Osteria del Sole offers a warm, rustic dining experience that transports you to the heart of Italy with its classic osteria-style dishes. Specializing in authentic, seasonal Italian cuisine, the menu features hearty pastas, tender meats, and fresh seafood, all prepared with a focus on high-quality, local ingredients. From rich risottos and savory osso buco to flavorful antipasti and homemade desserts, every dish is crafted with care and tradition. The cozy, charming atmosphere, with its wooden beams and vintage touches, makes it the perfect spot for a relaxed meal with friends or a romantic dinner for two. At Osteria del Sole, every meal is a celebration of Italy’s rich culinary heritage."
         },
         {
-            "restaurant": "",
-            "rating": "",
-            "location": "",
-            "description": ""
+            "restaurant": "Vino & Vespa",
+            "rating": "1/5",
+            "location": "Ripon, CA",
+            "description": "Vino & Vespa brings together the best of Italy's food and wine culture, offering a vibrant dining experience inspired by the flavors of the Mediterranean. The menu features a delightful mix of classic Italian dishes, from freshly made pastas and flavorful bruschetta to crispy fried calamari and tender veal. The restaurant is known for its carefully curated wine list, showcasing an impressive selection of Italian reds, whites, and sparkling wines, perfect for pairing with every meal. The lively, stylish ambiance, with its chic decor and the iconic Vespa scooters adorning the walls, creates a fun and festive atmosphere. At Vino & Vespa, it’s all about enjoying great food, fine wine, and the joy of la dolce vita."
+        },
+        {
+            "restaurant": "Sapore di Napoli",
+            "rating": "5/5",
+            "location": "Ripon, CA",
+            "description": "Sapore di Napoli transports you straight to the streets of Naples, offering an authentic taste of southern Italian cuisine. Known for its wood-fired pizzas with thin, perfectly charred crusts and fresh, high-quality ingredients, the restaurant also features classic Neapolitan dishes such as seafood risotto, pasta alla puttanesca, and delicate sfogliatella pastries. The rustic yet charming decor, with its warm, inviting atmosphere, makes you feel like you're dining in a traditional trattoria by the coast of Italy. Whether you're enjoying a crisp glass of wine or savoring a slice of pizza, Sapore di Napoli captures the true essence of Naples with every bite."
         }
 
     ]
